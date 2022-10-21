@@ -1,6 +1,1 @@
-dic = {"apple":"red", "grape":"Green",
-
-
-"orange":"orange",
-    "lemon":"yellow"
-}
+dic = {"apple": "red", "grape": "Green", "orange": "orange", "lemon": "yellow"}
